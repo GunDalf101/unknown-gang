@@ -1,5 +1,5 @@
 # unknown-gang
-A website to know how the semen tastes when you drink lot of soda , french fries and coffee.
+A website to know how the semen tastes when you drink lot of soda , french fries and coffee deez nuts.
 # ideazzzzz
 
 - Escape game (user should finds the clues to the unknown gang key to become a member):
